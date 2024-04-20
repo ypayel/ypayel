@@ -1,5 +1,5 @@
 
-- 👋 Hello, I’m Artsiom Kukankou, I’m 21 years old, I also graduated from technical school with a degree in computer science technology. There I learned what programming is.
+- 👋 Hello, I’m Artsiom Kukankou, I’m 21 years old, I have graduated from technical school with a degree in computer science technology. There I learned what programming is.
 -  The languages ​​I studied there were HTML, CSS, JS, SQL, C++ and a little C Sharp.
 -  Then I had a year break, to think about whether I needed this programming and I came to the conclusion that this is exactly the profession in which I can develop and learn new things throughout my career.
 -  So that's why I'm here
