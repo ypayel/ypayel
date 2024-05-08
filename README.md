@@ -11,5 +11,5 @@
 -  I started the course itself in October 2023. Course ends June 2024
 -  
 -  📫 How to reach me you can write me my email or private message on Linkedin
--  My Email: kukankouartsiom@gmail.com
+-  My Email: kukankovartem@gmail.com
 -  My Linkedin profile: https://www.linkedin.com/in/artsiom-kukankou-7700712b1/
