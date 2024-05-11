@@ -13,5 +13,5 @@
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f736173732e706e67](https://github.com/ypayel/ypayel/assets/147983587/d025d2d2-be92-4b04-a5e9-925c1acbbbf1)
   ## Kontakt
 -  📫 How to reach me you can write me my email or private message on Linkedin
--  My Email: kukankovartem@gmail.com
+-  My Email: kukankouartsiom@gmail.com
 -  My Linkedin profile: https://www.linkedin.com/in/artsiom-kukankou-7700712b1/
