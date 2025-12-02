@@ -4,7 +4,7 @@
 -  I’ve been living in Poland for more than 6 years, I really fell in love with this country and the people who live here. 
   ## Loking For
 - 👀 I am interested in a company that would be happy to take me under its wing and help me gain first experience in this profession. I love to study, I am full of energy and hunger for knowledge and new challenges. I will try my best.
-  ## My skills
+## My skills
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67](https://github.com/ypayel/ypayel/assets/147983587/82a22da6-2de6-4d23-a2a4-a28bebc77af6)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67](https://github.com/ypayel/ypayel/assets/147983587/7dcca8f5-1719-454a-8a1f-c3ec5f2496bb)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67](https://github.com/ypayel/ypayel/assets/147983587/198d913d-be5c-4e78-ae94-47eb080fb6dd)
