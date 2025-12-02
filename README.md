@@ -11,6 +11,8 @@
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67](https://github.com/ypayel/ypayel/assets/147983587/1d7c59e8-ae9c-48e6-a2a9-090d7c5ed418)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67](https://github.com/ypayel/ypayel/assets/147983587/fd52b082-9f63-4356-91b8-137143bcbe84)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f736173732e706e67](https://github.com/ypayel/ypayel/assets/147983587/d025d2d2-be92-4b04-a5e9-925c1acbbbf1)
+<img width="512" height="512" alt="4299956" src="https://github.com/user-attachments/assets/9332f445-c139-428c-bed1-8e0a70c0a5e7" />
+
   ## Kontakt
 -  📫 How to reach me you can write me my email or private message on Linkedin
 -  My Email: kukankouartsiom@gmail.com
