@@ -12,7 +12,7 @@
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67](https://github.com/ypayel/ypayel/assets/147983587/fd52b082-9f63-4356-91b8-137143bcbe84)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f736173732e706e67](https://github.com/ypayel/ypayel/assets/147983587/d025d2d2-be92-4b04-a5e9-925c1acbbbf1)
 <img src="https://github.com/user-attachments/assets/1e312fec-00cb-4022-98a1-6828127628c8" width="48">
-<img src="https://github.com/user-attachments/assets/1e312fec-00cb-4022-98a1-6828127628c8" width="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" />
 
   ## Kontakt
 -  📫 How to reach me you can write me my email or private message on Linkedin
